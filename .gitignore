@@ -15,7 +15,6 @@ Desktop.ini
 
 # npm
 node_modules
-package-lock.json
 *.log
 *.gz
 
@@ -28,3 +27,6 @@ temp
 
 # ENV file
 .env
+
+# Dist files
+dist
